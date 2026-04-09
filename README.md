@@ -1,6 +1,6 @@
-## 2015-12-20 Hi there 👋ㅎㅇ
+## 2025-12-20 Hi there 👋ㅎㅇ
 <hr>
-이걸 바꾸는거구나!!!
+260409 이걸 바꾸는거구나!!!
 
 <!--
 **Menba3237/Menba3237** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
